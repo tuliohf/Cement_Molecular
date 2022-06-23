@@ -5,6 +5,9 @@ Atomic strucures and force fields in LAMMPS format.
 
 # AF-phases
 
+AFFF: a force field for AF-phases in cement system based on ClayFF. PDF with parameters.
+
+
 ## AFts
 ### Ettringite (and metaettringite)
 Atomic structures at 300 K for various RH (0.1-100%)
