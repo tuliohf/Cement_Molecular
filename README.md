@@ -21,9 +21,7 @@ T. Honorio, M. Maaroufi, S. Al Dandachli, A. Bourdot, [Ettringite hysteresis und
 
 ## AFms
 ### Friedel's salt
-Atomic structures for 20°C and 40°C polymorphs
-
-Force field: AFFF
+[Atomic structures for 20°C and 40°C polymorphs and Force field: AFFF](AFm_Friedel_LAMMPS.zip)
 
 # ASR
 ## Crystalline ASR products
