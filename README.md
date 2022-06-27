@@ -5,7 +5,7 @@ Atomic strucures and force fields in LAMMPS format.
 
 # AF-phases
 
-AFFF: a force field for AF-phases in cement system based on ClayFF. PDF with parameters.
+AFFF: a force field for AF-phases in cement system based on ClayFF. [PDF with parameters](https://github.com/tuliohf/Cement_Molecular/blob/81480326e1e6744bb843d962bdf77324dd49d1c6/AFFF_parameters.pdf).
 
 
 ## AFts
