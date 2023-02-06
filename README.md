@@ -34,3 +34,12 @@ Reference:
 T. Honorio, O.M. Chemgne Tamouya, Z. Shi, A. Bourdot, [Intermolecular interactions of nanocrystalline alkali-silica reaction products under sorption, Cement and Concrete Research. 136 (2020) 106155](https://doi.org/10.1016/j.cemconres.2020.106155)
 
 T. Honorio, O.M. Chemgne Tamouya, Z. Shi, [Specific ion effects control the thermoelastic behavior of nanolayered materials: the case of crystalline alkali-silica reaction products, Physical Chemistry Chemical Physics. (2020)](https://doi.org/10.1039/D0CP04955G)
+
+
+
+# C-S-H
+## Surface water in C-S-H: effect of the temperature on (de)sorption
+
+Data on thermodynamic observables and properties per water layer 
+
+
